@@ -16,5 +16,5 @@ The dataset, sourced from Kaggle, includes information on various data of the St
 
 1. Download Tableau Public Desktop application.
 2. Clone this repository.
-3. Open `Tesla-Inc_Stock-Market-Dashboard-using-Tableau.twb` with Tableau.
+3. Open `TSLA Dashboard.twb` with Tableau.
 4. Interact with the dashboard.
